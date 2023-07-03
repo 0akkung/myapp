@@ -1,7 +1,7 @@
 package myapp;
 
 public class Cat {
-    private String color;
+    private String name;
     public void meow() {
         System.out.println("Meow~");
     }
